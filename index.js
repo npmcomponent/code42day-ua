@@ -1,5 +1,5 @@
-var dataset = require('dataset');
-var load = require('load');
+var dataset = require('code42day-dataset');
+var load = require('code42day-load');
 
 module.exports = analytics;
 

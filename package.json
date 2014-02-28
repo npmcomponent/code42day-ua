@@ -1,0 +1,15 @@
+{
+  "name": "code42day-ua",
+  "description": "Google Universal Analytics tracking snippet",
+  "version": "1.1.0",
+  "keywords": [
+    "google",
+    "analytics",
+    "universal"
+  ],
+  "dependencies": {
+    "code42day-dataset": "git://github.com/npmcomponent/code42day-dataset.git",
+    "code42day-load": "git://github.com/npmcomponent/code42day-load.git"
+  },
+  "license": "MIT"
+}
